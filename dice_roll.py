@@ -33,8 +33,8 @@ def run():
 
     else:
         print("why you don't want to play? are you afraid",player1_name, "?")
-        print("you'll got lucky today", player1_name, "and", player2_name)
-        
+        print("you'll got lucky today", player1_name)
+
 if __name__ == "__main__":
     run()
 
