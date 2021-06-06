@@ -29,7 +29,7 @@ def run():
                         print("Good Luck!!! you got a pair")
 
     else:
-        print("if want not to play go home stupid!!!")
+        print("why you don't want to play? are you afraid?!!!")
         
 if __name__ == "__main__":
     run()
