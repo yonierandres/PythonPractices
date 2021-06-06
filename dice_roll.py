@@ -8,7 +8,9 @@ def run():
 
     n_roll = int(input("how many times do you want to roll? :"))
     n_dices = int(input("how many dices wanna use? 1 or 2? "))
-    player1_name = str(input("type your name: "))
+    player1_name = str(input("type your name player 1: "))
+    player2_name = str(input("type your name player 2: "))
+    
 
     if n_roll > 0:
 
