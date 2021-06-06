@@ -30,6 +30,7 @@ def run():
 
     else:
         print("why you don't want to play? are you afraid?!!!")
+        print("you'll got lucky today")
         
 if __name__ == "__main__":
     run()
