@@ -29,7 +29,7 @@ def run():
                 print("in the roll",i, "the dice one result is",roll2,"and the dice two result is",roll3)
                 
                 if roll2 == roll3:
-                        print("Good Luck!!! you got a pair")
+                        print("Good Luck", player1_name, "!!! you got a pair")
 
     else:
         print("why you don't want to play? are you afraid?!!!")
