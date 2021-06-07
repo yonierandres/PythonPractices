@@ -32,7 +32,7 @@ def run():
                         print("Good Luck", player1_name, "!!! you got a pair")
 
     else:
-        print("why you don't want to play? are you afraid",player1_name, "?")
+        print("why you don't want to play? are you afraid",player1_name, "??")
         print("you'll got lucky today", player1_name)
 
 if __name__ == "__main__":
